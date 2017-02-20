@@ -1,4 +1,4 @@
-package substratum.theme.template;
+package substratum.theme.substratum;
 
 import android.app.Activity;
 import android.content.Context;
